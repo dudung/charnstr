@@ -2,12 +2,6 @@
 analyze a string for its characters information
 
 
-## install
-``` batch
-pip install -i https://test.pypi.org/simple/ charnstr
-```
-
-
 ## example
 Following lines of code
 
